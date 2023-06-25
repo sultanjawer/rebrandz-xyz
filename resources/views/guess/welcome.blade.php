@@ -9,9 +9,9 @@
 		<meta content="" name="description">
 		<meta content="" name="author">
 
-		<link href="{{asset('guess/css/slides/slides.min.css?41331')}}" rel="stylesheet" type="text/css" />
+		<link href="{{asset('guess/css/slides/slides.min.css')}}" rel="stylesheet" type="text/css" />
 		<script src="{{asset('guess/js/slides/jquery.min.js')}}"></script>
-		<script src="{{asset('guess/js/slides/slides.min.js?41331')}}" type="text/javascript"></script>
+		<script src="{{asset('guess/js/slides/slides.min.js')}}" type="text/javascript"></script>
 
 		<link href="{{ asset('img/favicon.png') }}" rel="icon" />
 		<link href="{{ asset('img/logo-icon.png') }}" rel="apple-touch-icon" sizes="180x180" />
@@ -585,9 +585,9 @@
 								<li class="col-1-12">&nbsp;</li>
 								<li class="col-5-12 bottom">
 									<div class="videoThumbnail shadow rounded popupTrigger margin-bottom-3 ae-7" data-popup-id="89-3" >
-										<img  style="background-image: url('{{ asset('img/img-89-1.jpg') }}')" class="wide" alt="Video Thumbnail" />
+										<img  style="background-image: url('{{ asset('img/image-89-1.jpg') }}')" class="wide" alt="Video Thumbnail" />
 									</div>
-									<img  style="background-image: url('{{ asset('img/img-89-2.jpg') }}')" data-action="zoom" class="shadow rounded ae-8" alt="Image" />
+									<img  style="background-image: url('{{ asset('img/image-89-2.jpg') }}')" data-action="zoom" class="shadow rounded ae-8" alt="Image" />
 								</li>
 							</ul>
 						</div>
