@@ -253,8 +253,7 @@
 			<div class="sections desktop">
 				<div class="left">
 					<a href="https://rebrandz.xyz" title="Slides Framework">
-						<img
-							src="{{asset('img/logo-text.png')}}"
+						<img src="{{asset('img/logo-text.png')}}"
 							alt="rebrandz"
 							style="max-height: 25px"
 						/>
@@ -585,9 +584,9 @@
 								<li class="col-1-12">&nbsp;</li>
 								<li class="col-5-12 bottom">
 									<div class="videoThumbnail shadow rounded popupTrigger margin-bottom-3 ae-7" data-popup-id="89-3" >
-										<img  style="background-image: url('{{ asset('img/image-89-1.jpg') }}')" class="wide" alt="Video Thumbnail" />
+										<img  src="{{asset('img/image-89-1.jpg')}}" class="wide" alt="Video Thumbnail" />
 									</div>
-									<img  style="background-image: url('{{ asset('img/image-89-2.jpg') }}')" data-action="zoom" class="shadow rounded ae-8" alt="Image" />
+									<img src="{{asset('img/image-89-2.jpg')}}" data-action="zoom" class="shadow rounded ae-8" alt="Image" />
 								</li>
 							</ul>
 						</div>
